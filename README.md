@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-This repository contains all the work (labs) I've completed as part of the IBM Data Science professional Certificate.
+This repository contains all the work (labs, assignments) I've completed as part of the IBM Data Science professional Certificate.
 
 ## Courses Completed:
 
